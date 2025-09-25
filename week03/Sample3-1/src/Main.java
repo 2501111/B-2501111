@@ -13,7 +13,7 @@ public class Main {
 
         final float PI = 3.141592f;
 
-        String Y = null; // String의 기본값
+        String Y = null; // String의 기본값 ㅇ
 
 
         a = 5;
