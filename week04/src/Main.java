@@ -19,6 +19,6 @@ public class Main {
         System.out.printf("보너스는 %,d 원\n",bonus);
         System.out.printf("총 수입액 = %,d 원\n",total);
         System.out.printf("세금 = %,d 원\n",tax);
-        System.out.printf("실 입금액 = %,d 원\n",total - tax);
+        System.out.printf("실 입금액 = %,d 원\n",total - tax); //xd
     }
 }
