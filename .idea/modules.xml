@@ -4,7 +4,21 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JAVA1-B/2501111.iml" filepath="$PROJECT_DIR$/JAVA1-B/2501111.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA2-B/JAVA2-B.iml" filepath="$PROJECT_DIR$/JAVA2-B/JAVA2-B.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Sample01/Sample01.iml" filepath="$PROJECT_DIR$/JAVA2-B/Sample01/Sample01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week02/Sample01/Sample01.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week02/Sample01/Sample01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week02/Sample02/Sample02.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week02/Sample02/Sample02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week02/Sample03/Sample03.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week02/Sample03/Sample03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week03/Sample03-1/Sample03-1.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-1/Sample03-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week03/Sample03-2/Sample03-2.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-2/Sample03-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week03/Sample03-3/Sample03-3.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-3/Sample03-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week03/Sample03-4/Sample03-4.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-4/Sample03-4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week03/Sample03-5/Sample03-5.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-5/Sample03-5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week03/Sample03-6/Sample03-6.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-6/Sample03-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week03/Sample03-7/Sample03-7.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-7/Sample03-7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week02/Sample04/Sample04.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week02/Sample04/Sample04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week02/Sample05/Sample05.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week02/Sample05/Sample05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week02/Sample06/Sample06.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week02/Sample06/Sample06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week02/Sample07/Sample07.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week02/Sample07/Sample07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week02/Sample08/Sample08.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week02/Sample08/Sample08.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA1-B/week02/Sample1/Sample1.iml" filepath="$PROJECT_DIR$/JAVA1-B/week02/Sample1/Sample1.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA1-B/week10/Sample10-1/Sample10-1.iml" filepath="$PROJECT_DIR$/JAVA1-B/week10/Sample10-1/Sample10-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA1-B/week10/Sample10-2/Sample10-2.iml" filepath="$PROJECT_DIR$/JAVA1-B/week10/Sample10-2/Sample10-2.iml" />
@@ -73,6 +87,8 @@
       <module fileurl="file://$PROJECT_DIR$/JAVA1-B/week09/Sample9-7/Sample9-7.iml" filepath="$PROJECT_DIR$/JAVA1-B/week09/Sample9-7/Sample9-7.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA1-B/week09/Sample9-8/Sample9-8.iml" filepath="$PROJECT_DIR$/JAVA1-B/week09/Sample9-8/Sample9-8.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA1-B/week09/Sample9-9/Sample9-9.iml" filepath="$PROJECT_DIR$/JAVA1-B/week09/Sample9-9/Sample9-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week02/Week02.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week02/Week02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week03/Week03.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week03/Week03.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA1-B/week07/sample7-1/sample7-1.iml" filepath="$PROJECT_DIR$/JAVA1-B/week07/sample7-1/sample7-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA1-B/week07/sample7-10/sample7-10.iml" filepath="$PROJECT_DIR$/JAVA1-B/week07/sample7-10/sample7-10.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA1-B/week07/sample7-2/sample7-2.iml" filepath="$PROJECT_DIR$/JAVA1-B/week07/sample7-2/sample7-2.iml" />
