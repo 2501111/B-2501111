@@ -4,15 +4,71 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ad3ed30-b5cd-4817-bd18-c7081b607585" name="변경" comment="주차">
-      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample02/Sample02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample03/Sample03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample04/Sample04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Week02.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA2-B/Sample01/Sample01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample01/Sample01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAVA2-B/Sample01/src/Main.java" beforeDir="false" />
+    <list default="true" id="2ad3ed30-b5cd-4817-bd18-c7081b607585" name="변경" comment="3주차">
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample01/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample01/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample02/src/FastFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample02/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample03/src/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample03/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample04/src/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample04/src/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample04/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample04/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample05/Sample05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample05/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample05/src/Today.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample06/Sample06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample06/src/Introduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample06/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample07/Sample07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample07/src/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample07/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample08/Sample08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample08/src/Adder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/Sample08/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week02/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-1/Sample03-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-1/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-1/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-1/src/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-2/Sample03-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-2/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-2/src/ClassRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-2/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-2/src/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-3/Sample03-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-3/src/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-3/src/ClassRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-3/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-3/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-3/src/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-4/Sample03-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-4/src/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-4/src/Costumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-4/src/Seller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-5/Sample03-5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-5/src/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-5/src/Costumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-5/src/Seller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-5/src/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-6/Sample03-6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-6/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-6/src/Navigation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-7/Sample03-7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-7/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-7/src/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-7/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Sample03-7/src/SportsCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/Week03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA2-B/Week03/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +133,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/user/IdeaProjects/B-2501111/week13/Sample13-4/src",
-    "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/B-2501111/JAVA2-B/Week03/Sample03-5/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/B-2501111/JAVA2-B/Week03/Sample03-7/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -291,7 +347,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775050790538</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="3주차">
+      <option name="closed" value="true" />
+      <created>1775054309511</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1775054309511</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,7 +380,8 @@
     <MESSAGE value="11주차" />
     <MESSAGE value="12주차" />
     <MESSAGE value="주차" />
-    <option name="LAST_COMMIT_MESSAGE" value="주차" />
+    <MESSAGE value="3주차" />
+    <option name="LAST_COMMIT_MESSAGE" value="3주차" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -750,6 +815,16 @@
           <url>file://$PROJECT_DIR$/JAVA2-B/Week03/Sample03-5/src/Main.java</url>
           <line>12</line>
           <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVA2-B/Week03/Sample03-6/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVA2-B/Week03/Sample03-7/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="116" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
