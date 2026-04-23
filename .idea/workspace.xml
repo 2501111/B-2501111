@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ad3ed30-b5cd-4817-bd18-c7081b607585" name="변경" comment="3주차">
+    <list default="true" id="2ad3ed30-b5cd-4817-bd18-c7081b607585" name="변경" comment="5주차">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -70,8 +70,8 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/IdeaProjects/B-2501111/JAVA2-B/Week05/Water04/src",
-    "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/B-2501111/JAVA2-B/Week05/Water04/src/Main.java",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/B-2501111/JAVA2-B/Week06/Phone03/src",
+    "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/B-2501111/JAVA2-B/Week06/Phone03/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -81,6 +81,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\B-2501111\JAVA2-B\Week06\Phone03\src" />
+      <recent name="C:\Users\user\IdeaProjects\B-2501111\JAVA2-B\Week06\Phone02\src" />
       <recent name="C:\Users\user\IdeaProjects\B-2501111\JAVA2-B\Week05\Water04\src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -304,7 +306,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775054606332</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="5주차">
+      <option name="closed" value="true" />
+      <created>1775783369585</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1775783369585</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -322,7 +332,6 @@
     <MESSAGE value="2주차" />
     <MESSAGE value="4차" />
     <MESSAGE value="3차" />
-    <MESSAGE value="5주차" />
     <MESSAGE value="6주차" />
     <MESSAGE value="9주차" />
     <MESSAGE value="10주차" />
@@ -330,7 +339,8 @@
     <MESSAGE value="12주차" />
     <MESSAGE value="주차" />
     <MESSAGE value="3주차" />
-    <option name="LAST_COMMIT_MESSAGE" value="3주차" />
+    <MESSAGE value="5주차" />
+    <option name="LAST_COMMIT_MESSAGE" value="5주차" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -812,8 +822,33 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/JAVA2-B/Week05/Water04/src/Main.java</url>
-          <line>11</line>
+          <line>18</line>
           <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVA2-B/Phone01/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVA2-B/Week06/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVA2-B/Week06/Phone01/src/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVA2-B/Week06/Phone01/BasicPlan/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JAVA2-B/Week06/Phone01/Phone02/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="131" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

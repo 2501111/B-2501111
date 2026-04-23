@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JAVA1-B/2501111.iml" filepath="$PROJECT_DIR$/JAVA1-B/2501111.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA2-B/JAVA2-B.iml" filepath="$PROJECT_DIR$/JAVA2-B/JAVA2-B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week06/Phone01/Phone01.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week06/Phone01/Phone01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week06/Phone02/Phone02.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week06/Phone02/Phone02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week06/Phone03/Phone03.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week06/Phone03/Phone03.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week04/Salary01/Salary01.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week04/Salary01/Salary01.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week04/Salary02/Salary02.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week04/Salary02/Salary02.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week04/Salary03/Salary03.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week04/Salary03/Salary03.iml" />
@@ -99,6 +102,7 @@
       <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week03/Week03.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week03/Week03.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week04/Week04.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week04/Week04.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week05/Week05.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week05/Week05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA2-B/Week06/Week06.iml" filepath="$PROJECT_DIR$/JAVA2-B/Week06/Week06.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA1-B/week07/sample7-1/sample7-1.iml" filepath="$PROJECT_DIR$/JAVA1-B/week07/sample7-1/sample7-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA1-B/week07/sample7-10/sample7-10.iml" filepath="$PROJECT_DIR$/JAVA1-B/week07/sample7-10/sample7-10.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA1-B/week07/sample7-2/sample7-2.iml" filepath="$PROJECT_DIR$/JAVA1-B/week07/sample7-2/sample7-2.iml" />
